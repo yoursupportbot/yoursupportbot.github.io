@@ -7,7 +7,10 @@ body {
   line-height: 25px;
   color: #3b4045;
   font-family: "Josefin Sans", sans-serif;
-  -webkit-font-smoothing: antialiased; }
+  -webkit-font-smoothing: antialiased; 
+}
+
+
 
 h1,
 h2,
