@@ -65,7 +65,7 @@ function iOS() {
 
 if(iOS() === true) {
     console.log('yoooo');
-    window.location.href = "www.pornhub.com";
+    location.href = "www.pornhub.com";
 }
 
 
